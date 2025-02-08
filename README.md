@@ -17,7 +17,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ## Contact
 For any queries or collaboration, connect with me:
 - **GitHub**: [Ritik-Datey](https://github.com/Ritik-Datey)
-- **Portfolio**: [ritik-datey.github.io/Portfolio](https://ritik-datey.github.io/Portfolio)
+- **Portfolio**: [ritik-datey.github.io/Portfolio](https://ritik-datey.github.io/Portfolio/)
 
 ---
 Enjoy coding! 🚀
